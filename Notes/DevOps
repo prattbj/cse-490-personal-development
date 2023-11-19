@@ -1,0 +1,21 @@
+https://aws.amazon.com/devops/what-is-devops/#:~:text=DevOps%20is%20the%20combination%20of,development%20and%20infrastructure%20management%20processes.
+
+https://www.atlassian.com/devops
+
+https://en.wikipedia.org/wiki/DevOps
+
+https://azure.microsoft.com/en-us/products/devops
+
+https://planetscale.com/docs/devops/intro-to-the-eight-phases-of-devops
+
+Stages of DevOps
+
+Plan - Use tools such as Atlassian/Trello to create tasks
+Code - Use an IDE
+Build - Use different environments (Operating systems, high-end vs low-end systems, etc...) to make sure your code will work for the client
+Test - Explore edge cases within the application you built, run tests that you have programmed to make sure everything functions properly
+Release - Set up your build for production
+Deploy - Tools that host your server like a cloud service to allow end users to interact with it
+Operate - Either working with the cloud service or upgrading your infrastucture to handle the requests 
+Monitor - Same as operate but monitor instead of handle
+
